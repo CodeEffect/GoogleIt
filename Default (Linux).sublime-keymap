@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+g"], "command": "google_it" },
+    { "keys": ["ctrl+shift+g"], "command": "google_it", "args": {"include_language": true} }
+]

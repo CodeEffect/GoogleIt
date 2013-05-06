@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+g"], "command": "google_it" },
+    { "keys": ["super+shift+g"], "command": "google_it", "args": {"include_language": true} }
+]
